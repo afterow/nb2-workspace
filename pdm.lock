@@ -1037,7 +1037,7 @@ files = [
 
 [[package]]
 name = "nonebot-plugin-sanyao"
-version = "0.2.2"
+version = "0.2.4"
 requires_python = ">=3.9"
 editable = true
 path = "./packages/nonebot-plugin-sanyao"
