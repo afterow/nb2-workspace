@@ -1,0 +1,6 @@
+.venv/
+.pdm-python
+__pypackages__/
+.coverage
+node_modules/
+pyrightconfig.json
