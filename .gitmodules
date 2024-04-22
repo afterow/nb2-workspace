@@ -1,0 +1,3 @@
+[submodule "packages/nonebot-plugin-sanyao"]
+	path = packages/nonebot-plugin-sanyao
+	url = https://github.com/afterow/nonebot-plugin-sanyao
